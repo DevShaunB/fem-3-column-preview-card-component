@@ -108,3 +108,29 @@ select {
   white-space: nowrap;
   border-width: 0;
 }
+
+/* BASE */
+
+body {
+  font: var(--fw-regular) 0.9375rem var(--ff-sans);
+  background-color: hsl(var(--clr-gray-50));
+  padding: 1.5em;
+}
+
+h1,
+h2 {
+  font-family: var(--ff-cursive);
+  font-weight: var(--fw-bold);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
