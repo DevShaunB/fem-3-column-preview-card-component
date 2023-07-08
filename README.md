@@ -36,6 +36,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-with-flexbox-208qAYy9Js](https://www.frontendmentor.io/solutions/3column-preview-card-component-with-flexbox-208qAYy9Js)
 - Live Site URL: [https://devshaunb.github.io/fem-3-column-preview-card-component/](https://devshaunb.github.io/fem-3-column-preview-card-component/)
 
 ## Reference
