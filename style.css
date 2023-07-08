@@ -7,6 +7,13 @@
   /* NEUTRAL */
   --clr-white: 0 0% 100%;
   --clr-gray-50: 0 0% 95%;
+
+  /* FONT */
+  --ff-cursive: 'Big Shoulders Display', cursive;
+  --ff-sans: 'Lexend Deca', sans-serif;
+
+  --fw-regular: 400;
+  --fw-bold: 700;
 }
 
 /* RESET */
