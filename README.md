@@ -15,7 +15,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Run Locally](#run-locally)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
